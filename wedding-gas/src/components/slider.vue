@@ -148,10 +148,16 @@ export default {
           src: require(`../assets/compressed/6.jpeg`),
         },
         {
+          src: require(`../assets/compressed/7.jpeg`),
+        },
+        {
           src: require(`../assets/compressed/gas.jpeg`),
         },
         {
           src: require(`../assets/compressed/grace.jpeg`),
+        },
+        {
+          src: require(`../assets/lesmariees.jpeg`),
         }
       ],
     };

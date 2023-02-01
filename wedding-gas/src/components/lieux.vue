@@ -310,35 +310,35 @@ export default {
       mariage: [
         {
           lieu: "Civil",
-          name: "Nom du lieu",
-          address: "Address",
+          name: "Bernicia Auberge",
+          address: "Bernicia Auberge, Av. Assossa, Kinshasa",
           time: "9h30 à 10h30",
           map:
-            "https://www.google.com/maps/embed/v1/place?q=Route+Merveilleuse+71,+5000+Namur&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
+            "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3978.383875155144!2d15.302790815365986!3d-4.338827596846419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a3149067eef55%3A0x809bc40a9bd3aa70!2sBernicia%20Auberge!5e0!3m2!1sfr!2sbe!4v1675274402428!5m2!1sfr!2sbe",
           href:
-            "https://www.google.com/maps/dir//50.4565615,4.854631/@50.456562,4.854631,16z?hl=fr-FR",
+            "https://www.google.com/maps/place/Bernicia+Auberge/@-4.3388276,15.3027908,17z/data=!3m1!4b1!4m5!3m4!1s0x1a6a3149067eef55:0x809bc40a9bd3aa70!8m2!3d-4.3388276!4d15.3049795",
           display: "text-center d-none",
         },
         {
           lieu: "Religieux",
-          name: "Nom du lieu",
-          address: "Address",
+          name: "Bernicia Auberge",
+          address: "Bernicia Auberge, Av. Assossa, Kinshasa",
           time: "10h30 à 11h30",
           map:
-            "https://www.google.com/maps/embed/v1/place?q=Route+d'isepré+91,+5020+Malonne&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
+            "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3978.383875155144!2d15.302790815365986!3d-4.338827596846419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a3149067eef55%3A0x809bc40a9bd3aa70!2sBernicia%20Auberge!5e0!3m2!1sfr!2sbe!4v1675274402428!5m2!1sfr!2sbe",
           href:
-            "https://www.google.com/maps/dir//50.4192536,4.8053354/@50.419254,4.805335,16z?hl=fr-FR",
+            "https://www.google.com/maps/place/Bernicia+Auberge/@-4.3388276,15.3027908,17z/data=!3m1!4b1!4m5!3m4!1s0x1a6a3149067eef55:0x809bc40a9bd3aa70!8m2!3d-4.3388276!4d15.3049795",
           display: "text-center d-none",
         },
         {
           lieu: "Soirée dansante",
-          name: "Salle Bernica",
-          address: "Address",
+          name: "Bernicia Auberge",
+          address: "Bernicia Auberge, Av. Assossa, Kinshasa",
           time: "19h30",
           map:
-            "https://www.google.com/maps/embed/v1/place?q=Route+d'isepré+91,+5020+Malonne&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8",
+            "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3978.383875155144!2d15.302790815365986!3d-4.338827596846419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1a6a3149067eef55%3A0x809bc40a9bd3aa70!2sBernicia%20Auberge!5e0!3m2!1sfr!2sbe!4v1675274402428!5m2!1sfr!2sbe",
           href:
-            "https://www.google.com/maps/dir//50.4192536,4.8053354/@50.419254,4.805335,16z?hl=fr-FR",
+            "https://www.google.com/maps/place/Bernicia+Auberge/@-4.3388276,15.3027908,17z/data=!3m1!4b1!4m5!3m4!1s0x1a6a3149067eef55:0x809bc40a9bd3aa70!8m2!3d-4.3388276!4d15.3049795",
           display: "text-center d-block",
         },
       ],

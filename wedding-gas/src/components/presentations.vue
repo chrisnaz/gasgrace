@@ -18,7 +18,7 @@
               C'est parque qu'un jour j'ai quitté le home de l'UNIKIN où j'ai fait mes études en anglais et informatique des affaires 
               pour habiter à Mont ngafula sur la rue kimbemba et <br/> devenue voisine de cet homme qui devient ma moitié.
               Si c'était à faire, je passerai par la...
-              Sur ce chemin d'hier (kimbemba).
+              Sur ce chemin d'hier.
             </p>
             <figure>
               <blockquote>
@@ -41,7 +41,7 @@
               C'est parque qu'un jour j'ai quitté le home de l'UNIKIN où j'ai fait mes études en anglais et informatique des affaires 
               pour habiter à Mont ngafula sur la rue kimbemba et <br/> devenue voisine de cet homme qui devient ma moitié.
               Si c'était à faire, je passerai par la...
-              Sur ce chemin d'hier (kimbemba).
+              Sur ce chemin d'hier.
             </p>
             <figure>
               <blockquote>

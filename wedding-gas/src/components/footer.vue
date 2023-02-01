@@ -6,7 +6,7 @@
           <p class="center plus asterix">
             [⚠️ Cliquez sur Civil, Religieux ou soirée dansante pour plus d'info. Menu déroulant]
           </p>
-          <p class="center">Réponse souhaitée avant le 01 Mars</p>
+          <p class="center"><b>Réponse souhaitée avant le 01 Mars</b></p>
           <!--p class="center asterix">
             Sous réserve des restrictions liées à la Covid, <br/>
             N'hésitez pas à consulter régulièrement ce site 
@@ -19,9 +19,14 @@
             </p>
             <a
               class="btn center right"
-              href="mailto:email@gmail.com?cc=email@gmail.com&subject=Concernant le mariage"
-              >Email ou Autre </a
+              href="mailto:bygasndele@gmail.com?&subject=Concernant le mariage"
+              >Nous contacter</a
             >
+            <p class="center right">
+              +243 812919502;
+              +243 856860361;
+              +243 816891112;
+            </p>
           </div>
         </div>
       </v-card-title>
